@@ -1,0 +1,23 @@
+5/21
+static表示静态方法，不需要对象也能被调用
+string.split
+正则表达式
+@override 可视为注释,覆盖父类方法的子方法前面
+implements Comparable<Transaction> 接口继承
+comparable接口可用来让数据结构实现Array.sort(a)
+implements Comparator 以及重写的实现了comparator比较方法类
+	public static class WhoOrder implements Comparator<Transaction>
+
+5/24
+全局变量定义方法
+	private static final int CUTOFF = 7;
+计时方法
+	Stopwatch timer = new Stopwatch();
+	return timer.elapsedTime();
+
+5/26
+QuickSort
+	思想：把k排到适当位置，使得k之前元素比k小，k之后元素都比k大
+三项切分的quicksort在元素高重复度的情况下效率更高
+
+5/28

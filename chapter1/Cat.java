@@ -1,3 +1,6 @@
+import edu.princeton.cs.algs4.In;
+import edu.princeton.cs.algs4.Out;
+
 public class Cat {
     public static void main(String[] args) {
         Out out = new Out(args[args.length - 1]);

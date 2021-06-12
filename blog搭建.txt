@@ -1,0 +1,6 @@
+hexo s start生成local host
+hexo n "name" create a new post
+hexo clean 清理
+hexo g  generate生成
+hexo d deplore部署
+git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia 克隆主题
