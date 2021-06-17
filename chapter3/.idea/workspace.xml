@@ -25,9 +25,8 @@
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
-  <component name="ProjectId" id="1sT08lww9OuNe8TfQUghaLjwajI" />
+  <component name="ProjectId" id="1sl3kmsbyso12koAcJyZEzIs1xM" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -38,76 +37,181 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\cs\java\algs4\chapter1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="Evaluate" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Evaluate" />
+  <component name="RunManager" selected="Application.BinarySearchST_">
+    <configuration name="BinarySearchST_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchST_" />
       <module name="COS 226" />
       <method v="2" />
     </configuration>
-    <configuration name="FixedCapacityStack" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="FixedCapacityStack" />
+    <configuration name="CubeSum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CubeSum" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CubeSum_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CubeSum_" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Date" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Date" />
       <module name="COS 226" />
       <method v="2" />
     </configuration>
-    <configuration name="FixedCapacityStackOfString" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="FixedCapacityStackOfString" />
+    <configuration name="IndexMaxPQ" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="IndexMaxPQ" />
       <module name="COS 226" />
       <method v="2" />
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="IndexMinPQ" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="IndexMinPQ" />
       <module name="COS 226" />
       <method v="2" />
     </configuration>
-    <configuration name="Stack" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Stack" />
+    <configuration name="Insertion_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Insertion_" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="100" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Inversions" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Inversions" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="4 12 2 3 4 4 1 1 234 341 16 7 7 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Invertions_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Invertions_" />
       <module name="COS 226" />
       <method v="2" />
     </configuration>
-    <configuration name="Stats" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Stats" />
+    <configuration name="MaxPQ_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MaxPQ_" />
       <module name="COS 226" />
       <method v="2" />
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ThreeSum" />
-      <module name="COS 226" />
-      <option name="PROGRAM_PARAMETERS" value="2000" />
-      <method v="2" />
-    </configuration>
-    <configuration name="UF_1" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="UF_1" />
+    <configuration name="Merge" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Merge" />
       <module name="COS 226" />
       <method v="2" />
     </configuration>
-    <configuration name="VisualAccumulator" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="VisualAccumulator" />
+    <configuration name="MergeImproved" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MergeImproved" />
       <module name="COS 226" />
-      <option name="PROGRAM_PARAMETERS" value="10000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Parentheses" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Parentheses" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="(11234)" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quick" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Quick" />
+      <module name="COS 226" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quick_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Quick_" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="BABABABACADABRA" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rational" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Rational" />
+      <module name="COS 226" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.princeton.cs.algs4.Selection" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selection_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Selection_" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="easyquestion" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Shell_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Shell_" />
+      <module name="COS 226" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SortCompare" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SortCompare" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="Quick Q 20000 100" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="COS 226" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraceInsertion" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TraceInsertion" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="easyquestion" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraceMerge" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TraceMerge" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="easyquestion" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TracePartition" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TracePartition" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="EASYQUESTION" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraceQuick" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TraceQuick" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="EASYQUESTION" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraceQuick_" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TraceQuick_" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="BABABABACADABRA" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraceSelection" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TraceSelection" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="easyquestion" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraceShell" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TraceShell" />
+      <module name="COS 226" />
+      <option name="PROGRAM_PARAMETERS" value="esayquetion" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Transaction" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Transaction" />
+      <module name="COS 226" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Selection" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -119,50 +223,41 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1621256739347">
+    <state x="320" y="0" width="653" height="680" key="#Selection" timestamp="1621434111890">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1621256739347" />
-    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1621407505693">
+    <state x="320" y="0" width="653" height="680" key="#Selection/0.0.1280.680@0.0.1280.680" timestamp="1621434111890" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1622205087927">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1621407505693" />
-    <state x="633" y="147" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621167286456" />
-    <state width="1900" height="291" key="GridCell.Tab.0.bottom" timestamp="1623512734814">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1282" height="180" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1621407579225" />
-    <state width="1900" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623512734814" />
-    <state width="1900" height="291" key="GridCell.Tab.0.center" timestamp="1623512734814">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1282" height="180" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1621407579225" />
-    <state width="1900" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623512734814" />
-    <state width="1900" height="291" key="GridCell.Tab.0.left" timestamp="1623512734813">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1282" height="180" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1621407579225" />
-    <state width="1900" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623512734813" />
-    <state width="1900" height="291" key="GridCell.Tab.0.right" timestamp="1623512734814">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1282" height="180" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1621407579225" />
-    <state width="1900" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623512734814" />
-    <state x="122" y="0" key="SettingsEditor" timestamp="1620885556547">
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1622205087927" />
+    <state x="418" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622044118801">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="122" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620885556547" />
-    <state x="339" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1620886020326">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="339" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1620886020326" />
-    <state x="664" y="265" key="refactoring.ChangeSignatureDialog" timestamp="1621171118840">
+    <state x="418" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1622044118801" />
+    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1623509148012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="664" y="265" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621171118840" />
-    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup" timestamp="1620890059504">
+    <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623509148012" />
+    <state width="1282" height="232" key="GridCell.Tab.0.bottom" timestamp="1623924379172">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1620890059504" />
+    <state width="1282" height="232" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623924379172" />
+    <state width="1282" height="232" key="GridCell.Tab.0.center" timestamp="1623924379172">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="232" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1623924379172" />
+    <state width="1282" height="232" key="GridCell.Tab.0.left" timestamp="1623924379172">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="232" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1623924379172" />
+    <state width="1282" height="232" key="GridCell.Tab.0.right" timestamp="1623924379172">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="232" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1623924379172" />
+    <state x="306" y="5" width="672" height="678" key="search.everywhere.popup" timestamp="1623909851905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="306" y="5" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1623909851905" />
   </component>
 </project>
