@@ -1,6 +1,7 @@
 import edu.princeton.cs.algs4.ST;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
+import edu.princeton.cs.algs4.Stopwatch;
 
 /**
  * The {@code FrequencyCounter} class provides a client for
@@ -35,6 +36,8 @@ public class FrequencyCounter {
         int minlen = Integer.parseInt(args[0]);
         ST<String, Integer> st = new ST<String, Integer>();
 
+        Stopwatch timer = new Stopwatch();
+
         // compute frequency counts
         while (!StdIn.isEmpty()) {
             String key = StdIn.readString();
@@ -49,6 +52,8 @@ public class FrequencyCounter {
             }
         }
 
+        double t = timer.elapsedTime();
+
         // find a key with the highest frequency count
         String max = "";
         st.put(max, 0);
@@ -60,6 +65,7 @@ public class FrequencyCounter {
         StdOut.println(max + " " + st.get(max));
         StdOut.println("distinct = " + distinct);
         StdOut.println("words    = " + words);
+        StdOut.println("time     = " + t);
     }
 }
 
