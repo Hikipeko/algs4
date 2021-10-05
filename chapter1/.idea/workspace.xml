@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/226.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/226.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter3/FrequencyCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter3/FrequencyCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter3/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter3/FrequencyCounter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +32,11 @@
     <toolWindowToFront>false</toolWindowToFront>
     <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1sT08lww9OuNe8TfQUghaLjwajI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -46,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chapter2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../UM/2021_fall/EECS 285/Project1" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -57,7 +66,12 @@
       <recent name="D:\cs\java\algs4\chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VisualAccumulator">
+  <component name="RunManager" selected="Application.Evaluate">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cat" />
+      <module name="COS 226" />
+      <method v="2" />
+    </configuration>
     <configuration name="Evaluate" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Evaluate" />
       <module name="COS 226" />
@@ -103,6 +117,21 @@
     <configuration default="true" type="Application" factoryName="Application">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1630522108789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630522108789</updated>
+    </task>
+    <servers />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -112,52 +141,5 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1621256739347">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1621256739347" />
-    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1621407505693">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1621407505693" />
-    <state x="633" y="147" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621167286456" />
-    <state width="1282" height="180" key="GridCell.Tab.0.bottom" timestamp="1621407579225">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1282" height="180" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1621407579225" />
-    <state width="1900" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621171212538" />
-    <state width="1282" height="180" key="GridCell.Tab.0.center" timestamp="1621407579225">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1282" height="180" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1621407579225" />
-    <state width="1900" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621171212538" />
-    <state width="1282" height="180" key="GridCell.Tab.0.left" timestamp="1621407579225">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1282" height="180" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1621407579225" />
-    <state width="1900" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621171212538" />
-    <state width="1282" height="180" key="GridCell.Tab.0.right" timestamp="1621407579225">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1282" height="180" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1621407579225" />
-    <state width="1900" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621171212538" />
-    <state x="122" y="0" key="SettingsEditor" timestamp="1620885556547">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="122" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620885556547" />
-    <state x="339" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1620886020326">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="339" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1620886020326" />
-    <state x="664" y="265" key="refactoring.ChangeSignatureDialog" timestamp="1621171118840">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="664" y="265" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621171118840" />
-    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup" timestamp="1620890059504">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1620890059504" />
   </component>
 </project>

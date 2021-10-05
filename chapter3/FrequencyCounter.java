@@ -52,6 +52,8 @@ public class FrequencyCounter {
             }
         }
 
+        StdOut.print("fuck");
+
         double t = timer.elapsedTime();
 
         // find a key with the highest frequency count
