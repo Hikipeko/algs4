@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/226.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/226.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter3/FrequencyCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter3/FrequencyCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter3/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter3/FrequencyCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Flip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlipsMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlipsMax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../UM/2021_fall/EECS 285/Project1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -66,7 +65,7 @@
       <recent name="D:\cs\java\algs4\chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Evaluate">
+  <component name="RunManager" selected="Application.Cat">
     <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cat" />
       <module name="COS 226" />

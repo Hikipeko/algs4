@@ -1,3 +1,7 @@
+import edu.princeton.cs.algs4.Counter;
+import edu.princeton.cs.algs4.StdOut;
+import edu.princeton.cs.algs4.StdRandom;
+
 public class FlipsMax {
     public static Counter max(Counter x, Counter y) {
         if (x.value() > y.value()) return x;
